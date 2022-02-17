@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin: auto;
+  padding: 10%;
+}
+
+input {
+  width: 40%;
+}
